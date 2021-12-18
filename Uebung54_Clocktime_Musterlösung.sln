@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung54_Clocktime_Musterlösung", "Uebung54_Clocktime_Musterlösung\Uebung54_Clocktime_Musterlösung.csproj", "{621ACD11-CC50-4E1A-8BD6-A6F2C94AFFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621ACD11-CC50-4E1A-8BD6-A6F2C94AFFD4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{621ACD11-CC50-4E1A-8BD6-A6F2C94AFFD4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{621ACD11-CC50-4E1A-8BD6-A6F2C94AFFD4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{621ACD11-CC50-4E1A-8BD6-A6F2C94AFFD4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5864728F-0199-4D41-8A53-452424728B2A}
+	EndGlobalSection
+EndGlobal

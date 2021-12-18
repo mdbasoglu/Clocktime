@@ -1,0 +1,6 @@
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/bin/Debug/Uebung54_Clocktime_Musterlösung.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/bin/Debug/Uebung54_Clocktime_Musterlösung.pdb
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/obj/Debug/Uebung54_Clocktime_Musterlösung.csproj.AssemblyReference.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/obj/Debug/Uebung54_Clocktime_Musterlösung.csproj.CoreCompileInputs.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/obj/Debug/Uebung54_Clocktime_Musterlösung.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung54_Clocktime_Musterlösung/Uebung54_Clocktime_Musterlösung/obj/Debug/Uebung54_Clocktime_Musterlösung.pdb
